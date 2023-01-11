@@ -1,0 +1,6 @@
+ipykernel
+argparse
+pandas
+matplotlib
+seaborn
+numpy
